@@ -1,0 +1,5 @@
+Halo pak, nama saya safariz dari Bandung
+
+Resolusi saya :
+ - Membuat webiste dengan framework javascript
+ - Kerja di star-up
